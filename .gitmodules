@@ -1,0 +1,3 @@
+[submodule "mlsd"]
+	path = mlsd
+	url = https://github.com/haidacho/mlsd.git
